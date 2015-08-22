@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GPS par SMS v2.1</string>
+    <string name="started">Demarre:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="elapsed_time">Elapsed Time:</string>
+    <string name="start">Demarre</string>
+    <string name="stop">Arrete</string>
+    <string name="gps_enabled">GPS Enabled</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="InfoProcess">Info sur processus</string>
+    
+</resources>
